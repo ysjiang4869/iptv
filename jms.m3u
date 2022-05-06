@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="卷毛鼠",卷毛鼠公益TV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠公益TV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",卷毛鼠公益TV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="卷毛鼠",Telegram
+#EXTINF:-1 tvg-id="jmstv" tvg-name="Telegram" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",Telegram
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="卷毛鼠",@Curly_MouseIPTV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="@Curly_MouseIPTV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",@Curly_MouseIPTV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
@@ -171,7 +171,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="中国",金鹰卡通
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="中国",卡酷少儿
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",炫动卡通
 http://112.25.47.24/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
@@ -275,11 +275,11 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="中国",中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMS",卷毛鼠公益TV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠公益TV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMS",卷毛鼠公益TV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMS",Telegram
+#EXTINF:-1 tvg-id="jmstv" tvg-name="Telegram" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMS",Telegram
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMS",@Curly_MouseIPTV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="@Curly_MouseIPTV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMS",@Curly_MouseIPTV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
@@ -559,9 +559,9 @@ http://120.84.96.29:808/hls/81/index.m3u8
 http://120.84.96.29:808/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2
 http://120.84.96.29:808/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMSTV",卷毛鼠公益TV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠公益TV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMSTV",卷毛鼠公益TV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMSTV",Telegram
+#EXTINF:-1 tvg-id="jmstv" tvg-name="Telegram" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMSTV",Telegram
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv" tvg-name="卷毛鼠TV" tvg-logo="" group-title="JMSTV",@Curly_MouseIPTV
+#EXTINF:-1 tvg-id="jmstv" tvg-name="@Curly_MouseIPTV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="JMSTV",@Curly_MouseIPTV
 https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
